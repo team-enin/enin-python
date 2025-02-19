@@ -1,2 +1,8 @@
-# enin-python
-With business data from Enin, you can look beyond the obvious. The world does not lack data, but insights. We exist to give them to you.
+# Enin Python API library
+
+The Enin Python library provides convenient access to the Enin REST API from any Python 3.8+
+application.
+
+## Documentation
+
+The REST API documentation can be found on [docs.enin.ai/api](https://docs.enin.ai/api).
